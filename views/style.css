@@ -1,0 +1,53 @@
+
+.main{
+    position: absolute;
+    width:30% ;
+    margin:auto;
+    left:40%;
+    transform: translate(-80%,40%);
+}
+.lname{
+    position: relative;
+    left: 130%;
+    width:100%;
+    top: -38px;
+}
+.name{
+    color: rgb(105, 102, 102);
+   
+}
+.form-row{
+    margin-bottom: -19px;
+}
+#email{
+    width: 160%;
+}
+.age{
+    position: absolute;
+    left:125%;
+    top:238px;
+}
+.ag_n{
+    position: absolute;
+    left:126%;
+    top:196px;
+}
+.course{
+    position: absolute;
+    top:340px;
+}
+.cours_n{
+    position: absolute;
+    top:300px;
+}
+h2{
+    position: absolute;
+    top:20px;
+    left:50%;
+    transform: translate(-50%,30%);
+}
+button{
+    position: absolute;
+    top: 130%;
+    left:60%;
+}
